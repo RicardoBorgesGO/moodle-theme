@@ -1,0 +1,141 @@
+/*
+	Reescrita do CSS
+*/
+
+.adminsearchform input[type="submit"], input[type="submit"], input#id_submitbutton, #searchform_button, .adminsearchform input[type="submit"], .btn-2, .login-information, .usermenu .menubar a, .stay-connected i, .categories-item-cont, .av-course-item-cont, .bx-wrapper .bx-pager.bx-default-pager a.active, .btn-1, .header3.main-menu, #checkall, #checknone {
+	background: #666699 !important;
+}
+
+.block .header h2::after, .btn-1 {
+	border: 1px solid #353568 !important;
+}
+
+.list-course {
+	list-style: none;
+	background: #eee;
+}
+
+.list-course li {
+	width: 22%;
+	display: inline-block;
+	height: 410px;
+	background: #FFF;
+	margin: 20px 20px 20px 0px;
+	vertical-align: top;
+	text-align: left;
+}
+
+.ribbon {
+	/*float: left;*/
+}
+
+.ribbon {
+	content: "";
+	width: 3em;
+	/*bottom:-.5em;*/
+	/*position:absolute;*/
+	/*display: inline-block;*/
+	border: .99em solid #880000;
+	box-shadow: 0px 1px 0px rgba(0,0,0,0.4);
+	z-index:-2;
+	float: right;
+	/*left:-1.35em;*/
+	border-right-width: .75em;
+	border-left-width: 1em;
+	border-left-color:transparent;
+	height: 0;
+	color: #FFF;
+	line-height: 0;
+	text-align: right;
+	font-weight: bold;
+	clear: both;
+	margin-top: -4px;
+}
+
+.data-course {
+	clear: both;
+	font-size: 0.85em;
+}
+
+.data-course h4 {
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 5px 0px;
+}
+
+.data-summary {
+	color: #8b8b8b;
+	font-size: 0.85em
+}
+
+.course {
+	padding: 10px;
+}
+
+.data-teacher {
+	display: inline-block;
+	font-size: 0.75em;
+	color: #8b8b8b;
+	position: relative;
+	top: -23px;
+	right: -8px;
+}
+
+.data-teacher img {
+	border-radius: 20px;
+	border: 2px solid #FFF;
+}
+
+footer {
+	background: #1F272A;
+	color: #FFF;
+	text-align: left !important;
+}
+
+footer .inner-logo {
+	float: none;
+	filter: grayscale(100%);
+}
+
+.block-footer {
+	width: 50%;
+	margin: 0 auto;
+	font-size: 0.75em;
+}
+
+.block-footer .title {
+	height: 58px;
+	position: relative;
+	line-height: 7;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+
+.block-footer .title:before {
+	border-bottom: 2px solid;
+    bottom: 0;
+    color: #f6a426;
+    content: "";
+    position: absolute;
+    width: 25%;
+}
+
+/*.block-footer .description {
+	width: 20%;
+}*/
+
+.block {
+	display: inline-block;
+	width: 28%;
+	vertical-align: top;
+}
+
+.block-footer .description ul {
+	display: inline-block;
+}
+	
+/*.ribbon:after {
+	right:-1.35em;
+	border-left-width: .75em;
+	border-right-color:transparent;
+}*/
