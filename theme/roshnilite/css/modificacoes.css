@@ -132,6 +132,17 @@ footer .inner-logo {
 
 .block-footer .description ul {
 	display: inline-block;
+	margin-right: 23px;
+}
+
+.block-footer .description ul li {
+	list-style-type: circle;
+    color: #f6a426;
+}
+
+.block a {
+	font-size: 1em !important;
+	color: #FFF !important;
 }
 	
 /*.ribbon:after {

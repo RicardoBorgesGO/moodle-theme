@@ -49,17 +49,47 @@
 			</div>
 			<div class="description">
 				<ul>
-					<li>Página Inicial</li>
-					<li>Cursos</li>
-					<li>Blog do site</li>
-					<li>Fórum</li>
+					<li><a href="#">Página Inicial</a></li>
+					<li><a href="#">Cursos</a></li>
+					<li><a href="#">Blog do site</a></li>
+					<li><a href="#">Fórum</a></li>
 				</ul>
 
 				<ul>
-					<li>Sobre nós</li>
-					<li>Cursos</li>
-					<li>Blog do site</li>
-					<li>Fórum</li>
+					<li><a href="#">Sobre nós</a></li>
+					<li><a href="#">Cursos</a></li>
+					<li><a href="#">Blog do site</a></li>
+					<li><a href="#">Fórum</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="block">
+			<div class="title">
+				Conecte
+				<span class="border"></span>
+			</div>
+			<div class="description">
+				<ul>
+					<li><a href="#">Facebook</a></li>
+					<li><a href="#">Google+</a></li>
+					<li><a href="#">Twitter</a></li>
+					<li><a href="#">LinkedIn</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="block">
+			<div class="title">
+				Mais
+				<span class="border"></span>
+			</div>
+			<div class="description">
+				<ul>
+					<li><a href="#">Facebook</a></li>
+					<li><a href="#">Google+</a></li>
+					<li><a href="#">Twitter</a></li>
+					<li><a href="#">LinkedIn</a></li>
 				</ul>
 			</div>
 		</div>
