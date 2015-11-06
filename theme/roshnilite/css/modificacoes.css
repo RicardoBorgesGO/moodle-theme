@@ -98,7 +98,7 @@ footer .inner-logo {
 }
 
 .block-footer {
-	width: 50%;
+	width: 47%;
 	margin: 0 auto;
 	font-size: 0.75em;
 }
@@ -126,8 +126,9 @@ footer .inner-logo {
 
 .block {
 	display: inline-block;
-	width: 28%;
+	max-width: 200px;
 	vertical-align: top;
+	margin-right: 20px !important;
 }
 
 .block-footer .description ul {
@@ -143,6 +144,10 @@ footer .inner-logo {
 .block a {
 	font-size: 1em !important;
 	color: #FFF !important;
+}
+
+#frontpage-course-list {
+	display: none;
 }
 	
 /*.ribbon:after {
